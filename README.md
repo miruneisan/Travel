@@ -100,4 +100,7 @@ const quizData = {
 
 - 色やデザインは`style.css`で変更可能
 - 質問数を変更する場合は、`data.js`の`questions`配列を編集
-- 画像は[Unsplash](https://unsplash.com/)から取得していますが、任意の画像URLに変更可能
+- 画像は下記のフリー素材から取得していますが、任意の画像URLに変更可能
+    1. [Unsplash](https://unsplash.com/)
+    2. [photo-ac](https://www.photo-ac.com/)
+    3. [阿蘇市ホームページ](https://photo.city.aso.kumamoto.jp)
