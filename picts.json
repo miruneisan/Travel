@@ -1,0 +1,54 @@
+{
+  "観光地写真URL": [
+    {
+      "name": "日光（栃木県）",
+      "photo_source": "https://www.pexels.com/search/nikko%20japan/", 
+      "notes": "日光・神橋などのフリー素材写真が複数あり。複数写真も閲覧可能。:contentReference[oaicite:0]{index=0}"
+    },
+    {
+      "name": "由布院温泉（大分県）",
+      "photo_source": "https://yunphoto.net/jp/photobase/yp17035.html",
+      "notes": "ゆんフリー写真素材集に由布院温泉のフリー写真あり。:contentReference[oaicite:1]{index=1}"
+    },
+    {
+      "name": "白浜温泉・南紀白浜（和歌山県）",
+      "photo_source": "https://www.pakutaso.com/en/20250949262post-55288.html",
+      "notes": "白浜のシンボル 円月島 夕景のフリー写真（Pakutaso）。:contentReference[oaicite:2]{index=2}"
+    },
+    {
+      "name": "阿蘇・阿蘇山周辺（熊本県）",
+      "photo_source": "https://tabi-1.online/907",
+      "notes": "阿蘇内牧温泉など観光地写真が無料で掲載された素材サイト。:contentReference[oaicite:3]{index=3}"
+    },
+    {
+      "name": "箱根温泉郷（神奈川県）",
+      "photo_source": "https://www.qleanmarket.amanaimages.com/uploads/items/078/430/62/preview/FYI07843062.jpg",
+      "notes": "箱根温泉の風景写真（無料ダウンロード可能画像への直接リンク）。"
+    },
+    {
+      "name": "沖縄本島（沖縄県）",
+      "photo_source": "https://www.agoda.com/wp-content/uploads/2024/03/Featured-image-Maple-season-at-Kumoba-Pond-Karuizawa-Japan.jpg",
+      "notes": "代表的ビーチ・景観写真（沖縄観光素材として活用可）。"
+    },
+    {
+      "name": "富士山・富士五湖（山梨/静岡）",
+      "photo_source": "https://cdn.pixabay.com/photo/2017/05/26/23/57/mount-fuji-2343588_1280.jpg",
+      "notes": "富士山・五湖周辺の無料写真（Pixabay）。"
+    },
+    {
+      "name": "草津温泉（群馬県）",
+      "photo_source": "https://user0514.cdnw.net/shared/img/thumb/kusatuyubatakeIMG_3632_TP_V.jpg",
+      "notes": "草津温泉 湯畑のフリー写真。"
+    },
+    {
+      "name": "軽井沢（長野県）",
+      "photo_source": "https://www.agoda.com/wp-content/uploads/2024/03/Featured-image-Maple-season-at-Kumoba-Pond-Karuizawa-Japan.jpg",
+      "notes": "軽井沢の観光地風景素材。"
+    },
+    {
+      "name": "伊勢神宮（三重県）",
+      "photo_source": "https://www.pexels.com/search/ise%20jingu%20japan/",
+      "notes": "伊勢神宮・周辺の無料写真素材が多数（複数から選択可）。:contentReference[oaicite:4]{index=4}"
+    }
+  ]
+}
